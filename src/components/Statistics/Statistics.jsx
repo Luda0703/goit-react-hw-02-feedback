@@ -1,6 +1,5 @@
 import React from 'react';
-import { Section } from 'components/Section/Section';
-import { FeedbackOptions } from 'components/FeedbackOptions/FeedbackOptions';
+
 
 export const Statistics = ({good, neutral, bad}) => (
     <div>   
